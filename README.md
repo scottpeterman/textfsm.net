@@ -2,7 +2,7 @@
 
 A .NET implementation of TextFSM, a template-based text parsing engine that converts semi-structured text into structured data.
 
-[![NuGet](https://img.shields.io/nuget/v/TextFSMLibrary.svg)](https://www.nuget.org/packages/TextFSMLibrary/)
+<!-- NuGet package coming soon -->
 [![Build Status](https://img.shields.io/github/workflow/status/username/TextFSMLibrary/CI)](https://github.com/username/TextFSMLibrary/actions)
 [![License](https://img.shields.io/github/license/username/TextFSMLibrary)](LICENSE)
 
@@ -21,11 +21,9 @@ Key features include:
 
 ## Installation
 
-### Via NuGet
+### Coming Soon to NuGet
 
-```
-Install-Package TextFSMLibrary
-```
+The package will be available on NuGet in the future. Stay tuned for updates!
 
 ### Manual Installation
 
