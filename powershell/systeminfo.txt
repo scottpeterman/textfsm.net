@@ -1,0 +1,77 @@
+﻿
+Host Name:                     DESKTOP-5CQDU7M
+OS Name:                       Microsoft Windows 11 Pro
+OS Version:                    10.0.26100 N/A Build 26100
+OS Manufacturer:               Microsoft Corporation
+OS Configuration:              Standalone Workstation
+OS Build Type:                 Multiprocessor Free
+Registered Owner:              speterman
+Registered Organization:       N/A
+Product ID:                    00330-80000-00000-AA357
+Original Install Date:         2/3/2025, 6:27:32 PM
+System Boot Time:              3/30/2025, 7:12:03 PM
+System Manufacturer:           Dell Inc.
+System Model:                  Precision 5550
+System Type:                   x64-based PC
+Processor(s):                  1 Processor(s) Installed.
+                               [01]: Intel64 Family 6 Model 165 Stepping 2 GenuineIntel ~2712 Mhz
+BIOS Version:                  Dell Inc. 1.22.0, 3/16/2023
+Windows Directory:             C:\WINDOWS
+System Directory:              C:\WINDOWS\system32
+Boot Device:                   \Device\HarddiskVolume2
+System Locale:                 en-us;English (United States)
+Input Locale:                  en-us;English (United States)
+Time Zone:                     (UTC-07:00) Mountain Time (US & Canada)
+Total Physical Memory:         32,514 MB
+Available Physical Memory:     19,502 MB
+Virtual Memory: Max Size:      34,562 MB
+Virtual Memory: Available:     19,643 MB
+Virtual Memory: In Use:        14,919 MB
+Page File Location(s):         C:\pagefile.sys
+Domain:                        WORKGROUP
+Logon Server:                  \\DESKTOP-5CQDU7M
+Hotfix(s):                     3 Hotfix(s) Installed.
+                               [01]: KB5049622
+                               [02]: KB5053598
+                               [03]: KB5052915
+Network Card(s):               3 NIC(s) Installed.
+                               [01]: VMware Virtual Ethernet Adapter for VMnet8
+                                     Connection Name: VMware Network Adapter VMnet8
+                                     DHCP Enabled:    Yes
+                                     DHCP Server:     192.168.78.254
+                                     IP address(es)
+                                     [01]: 192.168.78.1
+                                     [02]: fe80::b9c0:ff0f:15d5:cb9b
+                               [02]: VMware Virtual Ethernet Adapter for VMnet1
+                                     Connection Name: VMware Network Adapter VMnet1
+                                     DHCP Enabled:    Yes
+                                     DHCP Server:     192.168.43.254
+                                     IP address(es)
+                                     [01]: 192.168.43.1
+                                     [02]: fe80::d10:703a:a2f2:f9aa
+                               [03]: Intel(R) Wi-Fi 6 AX201 160MHz
+                                     Connection Name: Wi-Fi
+                                     DHCP Enabled:    Yes
+                                     DHCP Server:     10.0.0.1
+                                     IP address(es)
+                                     [01]: 10.0.0.149
+                                     [02]: fe80::19da:59b1:fa62:9270
+                                     [03]: 2601:283:4f02:3b50:29c6:716c:b1fc:c55
+                                     [04]: 2601:283:4f02:3b50:977a:ee9f:2973:a358
+                                     [05]: 2601:283:4f02:3b50::d5cc
+Virtualization-based security: Status: Running
+                               Required Security Properties:
+                               Available Security Properties:
+                                     Base Virtualization Support
+                                     Secure Boot
+                                     DMA Protection
+                                     UEFI Code Readonly
+                                     SMM Security Mitigations 1.0
+                                     Mode Based Execution Control
+                                     APIC Virtualization
+                               Services Configured:
+                               Services Running:
+                               App Control for Business policy: Enforced
+                               App Control for Business user mode policy: Off
+                               Security Features Enabled:
+Hyper-V Requirements:          A hypervisor has been detected. Features required for Hyper-V will not be displayed.
